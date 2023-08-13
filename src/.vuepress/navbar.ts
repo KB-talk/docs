@@ -2,29 +2,25 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
   {
-    text: "指南",
+    text: "项目",
     icon: "lightbulb",
-    prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "STM32教程",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        link: "/program/STM32/introduce/",
       },
       {
-        text: "Foo",
+        text: "墨水屏挂件",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        link: "/program/smart_door/introduce/",
       },
     ],
   },
   {
-    text: "V2 文档",
+    text: "作者博客",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://kb-talk.github.io/",
   },
 ]);
