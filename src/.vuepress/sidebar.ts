@@ -18,6 +18,8 @@ export default sidebar({
   //   },
   //   "slides",
   // ],
-  "/program/STM32/": "structure",
+  "/program/screen/": "structure",
   "/program/smart_door/": "structure",
+  "/study/STM32/": "structure",
+  "/study/exams/": "structure",
 });

@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "张凯博",
     url: "https://mister-hope.com",
   },
 
@@ -26,7 +26,7 @@ export default hopeTheme({
 
   footer: "默认页脚",
 
-  displayFooter: true,
+  displayFooter: false,
 
   encrypt: {
     config: {
