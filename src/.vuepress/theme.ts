@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "https://cdn.staticaly.com/gh/KB-talk/picx-images-hosting@master/img/logo.1p5rqa10pxsw.webp",
 
   repo: "KB-talk/docs",
 
