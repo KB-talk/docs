@@ -30,7 +30,7 @@ export default navbar([
       {
         text: "复习资料",
         icon: "lightbulb",
-        link: "/study/exams/",
+        link: "/study/note/",
       },
     ],
   },
@@ -38,5 +38,10 @@ export default navbar([
     text: "作者博客",
     icon: "book",
     link: "https://kb-talk.github.io/",
+  },
+  {
+    text: "GitHub",
+    icon: "book",
+    link: "https://github.com/KB-talk",
   },
 ]);

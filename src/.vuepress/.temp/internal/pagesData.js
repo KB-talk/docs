@@ -11,8 +11,8 @@ export const pagesData = {
   "v-3e0394b2": () => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.js").then(({ data }) => data),
   // path: /study/STM32/
   "v-02946ca3": () => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.js").then(({ data }) => data),
-  // path: /study/exams/
-  "v-2350eefa": () => import(/* webpackChunkName: "v-2350eefa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/index.html.js").then(({ data }) => data),
+  // path: /study/note/
+  "v-753b8e1e": () => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.js").then(({ data }) => data),
   // path: /program/screen/introduce/01.html
   "v-6ad6fbc9": () => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.js").then(({ data }) => data),
   // path: /program/screen/introduce/
@@ -41,10 +41,48 @@ export const pagesData = {
   "v-f27671f0": () => import(/* webpackChunkName: "v-f27671f0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/01.html.js").then(({ data }) => data),
   // path: /study/STM32/start/
   "v-5df8ee70": () => import(/* webpackChunkName: "v-5df8ee70" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/index.html.js").then(({ data }) => data),
-  // path: /study/exams/higher_mathematics/01.html
-  "v-4bd89449": () => import(/* webpackChunkName: "v-4bd89449" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/higher_mathematics/01.html.js").then(({ data }) => data),
-  // path: /study/exams/higher_mathematics/
-  "v-3ffb184f": () => import(/* webpackChunkName: "v-3ffb184f" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/higher_mathematics/index.html.js").then(({ data }) => data),
+  // path: /study/note/en/01.html
+  "v-1fa964b0": () => import(/* webpackChunkName: "v-1fa964b0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/01.html.js").then(({ data }) => data),
+  // path: /study/note/en/
+  "v-7d80ddc8": () => import(/* webpackChunkName: "v-7d80ddc8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/index.html.js").then(({ data }) => data),
+  // path: /study/note/line/01.html
+  "v-30d7dd7b": () => import(/* webpackChunkName: "v-30d7dd7b" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/01.html.js").then(({ data }) => data),
+  // path: /study/note/line/02.html
+  "v-328cb61a": () => import(/* webpackChunkName: "v-328cb61a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/02.html.js").then(({ data }) => data),
+  // path: /study/note/line/03.html
+  "v-34418eb9": () => import(/* webpackChunkName: "v-34418eb9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/03.html.js").then(({ data }) => data),
+  // path: /study/note/line/04.html
+  "v-35f66758": () => import(/* webpackChunkName: "v-35f66758" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/04.html.js").then(({ data }) => data),
+  // path: /study/note/line/05.html
+  "v-37ab3ff7": () => import(/* webpackChunkName: "v-37ab3ff7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/05.html.js").then(({ data }) => data),
+  // path: /study/note/line/06.html
+  "v-39601896": () => import(/* webpackChunkName: "v-39601896" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/06.html.js").then(({ data }) => data),
+  // path: /study/note/line/
+  "v-2121e35d": () => import(/* webpackChunkName: "v-2121e35d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/index.html.js").then(({ data }) => data),
+  // path: /study/note/math/01.html
+  "v-07e9e08f": () => import(/* webpackChunkName: "v-07e9e08f" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/01.html.js").then(({ data }) => data),
+  // path: /study/note/math/02.html
+  "v-099eb92e": () => import(/* webpackChunkName: "v-099eb92e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/02.html.js").then(({ data }) => data),
+  // path: /study/note/math/03.html
+  "v-0b5391cd": () => import(/* webpackChunkName: "v-0b5391cd" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/03.html.js").then(({ data }) => data),
+  // path: /study/note/math/04.html
+  "v-0d086a6c": () => import(/* webpackChunkName: "v-0d086a6c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/04.html.js").then(({ data }) => data),
+  // path: /study/note/math/05.html
+  "v-0ebd430b": () => import(/* webpackChunkName: "v-0ebd430b" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/05.html.js").then(({ data }) => data),
+  // path: /study/note/math/06.html
+  "v-10721baa": () => import(/* webpackChunkName: "v-10721baa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/06.html.js").then(({ data }) => data),
+  // path: /study/note/math/07.html
+  "v-1226f449": () => import(/* webpackChunkName: "v-1226f449" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/07.html.js").then(({ data }) => data),
+  // path: /study/note/math/08.html
+  "v-13dbcce8": () => import(/* webpackChunkName: "v-13dbcce8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/08.html.js").then(({ data }) => data),
+  // path: /study/note/math/09.html
+  "v-1590a587": () => import(/* webpackChunkName: "v-1590a587" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/09.html.js").then(({ data }) => data),
+  // path: /study/note/math/
+  "v-212c6ec9": () => import(/* webpackChunkName: "v-212c6ec9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/index.html.js").then(({ data }) => data),
+  // path: /study/note/probability/01.html
+  "v-54c474c0": () => import(/* webpackChunkName: "v-54c474c0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/01.html.js").then(({ data }) => data),
+  // path: /study/note/probability/
+  "v-75de8090": () => import(/* webpackChunkName: "v-75de8090" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

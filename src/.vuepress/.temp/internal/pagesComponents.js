@@ -13,8 +13,8 @@ export const pagesComponents = {
   "v-3e0394b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.vue")),
   // path: /study/STM32/
   "v-02946ca3": defineAsyncComponent(() => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.vue")),
-  // path: /study/exams/
-  "v-2350eefa": defineAsyncComponent(() => import(/* webpackChunkName: "v-2350eefa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/index.html.vue")),
+  // path: /study/note/
+  "v-753b8e1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.vue")),
   // path: /program/screen/introduce/01.html
   "v-6ad6fbc9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.vue")),
   // path: /program/screen/introduce/
@@ -43,10 +43,48 @@ export const pagesComponents = {
   "v-f27671f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-f27671f0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/01.html.vue")),
   // path: /study/STM32/start/
   "v-5df8ee70": defineAsyncComponent(() => import(/* webpackChunkName: "v-5df8ee70" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/index.html.vue")),
-  // path: /study/exams/higher_mathematics/01.html
-  "v-4bd89449": defineAsyncComponent(() => import(/* webpackChunkName: "v-4bd89449" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/higher_mathematics/01.html.vue")),
-  // path: /study/exams/higher_mathematics/
-  "v-3ffb184f": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ffb184f" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/exams/higher_mathematics/index.html.vue")),
+  // path: /study/note/en/01.html
+  "v-1fa964b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fa964b0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/01.html.vue")),
+  // path: /study/note/en/
+  "v-7d80ddc8": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d80ddc8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/index.html.vue")),
+  // path: /study/note/line/01.html
+  "v-30d7dd7b": defineAsyncComponent(() => import(/* webpackChunkName: "v-30d7dd7b" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/01.html.vue")),
+  // path: /study/note/line/02.html
+  "v-328cb61a": defineAsyncComponent(() => import(/* webpackChunkName: "v-328cb61a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/02.html.vue")),
+  // path: /study/note/line/03.html
+  "v-34418eb9": defineAsyncComponent(() => import(/* webpackChunkName: "v-34418eb9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/03.html.vue")),
+  // path: /study/note/line/04.html
+  "v-35f66758": defineAsyncComponent(() => import(/* webpackChunkName: "v-35f66758" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/04.html.vue")),
+  // path: /study/note/line/05.html
+  "v-37ab3ff7": defineAsyncComponent(() => import(/* webpackChunkName: "v-37ab3ff7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/05.html.vue")),
+  // path: /study/note/line/06.html
+  "v-39601896": defineAsyncComponent(() => import(/* webpackChunkName: "v-39601896" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/06.html.vue")),
+  // path: /study/note/line/
+  "v-2121e35d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2121e35d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/index.html.vue")),
+  // path: /study/note/math/01.html
+  "v-07e9e08f": defineAsyncComponent(() => import(/* webpackChunkName: "v-07e9e08f" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/01.html.vue")),
+  // path: /study/note/math/02.html
+  "v-099eb92e": defineAsyncComponent(() => import(/* webpackChunkName: "v-099eb92e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/02.html.vue")),
+  // path: /study/note/math/03.html
+  "v-0b5391cd": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b5391cd" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/03.html.vue")),
+  // path: /study/note/math/04.html
+  "v-0d086a6c": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d086a6c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/04.html.vue")),
+  // path: /study/note/math/05.html
+  "v-0ebd430b": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ebd430b" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/05.html.vue")),
+  // path: /study/note/math/06.html
+  "v-10721baa": defineAsyncComponent(() => import(/* webpackChunkName: "v-10721baa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/06.html.vue")),
+  // path: /study/note/math/07.html
+  "v-1226f449": defineAsyncComponent(() => import(/* webpackChunkName: "v-1226f449" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/07.html.vue")),
+  // path: /study/note/math/08.html
+  "v-13dbcce8": defineAsyncComponent(() => import(/* webpackChunkName: "v-13dbcce8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/08.html.vue")),
+  // path: /study/note/math/09.html
+  "v-1590a587": defineAsyncComponent(() => import(/* webpackChunkName: "v-1590a587" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/09.html.vue")),
+  // path: /study/note/math/
+  "v-212c6ec9": defineAsyncComponent(() => import(/* webpackChunkName: "v-212c6ec9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/index.html.vue")),
+  // path: /study/note/probability/01.html
+  "v-54c474c0": defineAsyncComponent(() => import(/* webpackChunkName: "v-54c474c0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/01.html.vue")),
+  // path: /study/note/probability/
+  "v-75de8090": defineAsyncComponent(() => import(/* webpackChunkName: "v-75de8090" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/404.html.vue")),
 }

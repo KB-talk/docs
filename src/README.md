@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: /logo.svg
+heroImage: https://cdn.staticaly.com/gh/KB-talk/picx-images-hosting@master/img/logo.1p5rqa10pxsw.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -18,13 +18,13 @@ actions:
   #   link: ./guide/
 
 highlights:
-  - header: 易于安装
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
+  # - header: 易于安装
+  #   image: /assets/image/box.svg
+  #   bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+  #   bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+  #   highlights:
+  #     - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
+  #     - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
 
   - header: 项目列表
     description: 对项目进行管理，对项目的开发过程进行记录。

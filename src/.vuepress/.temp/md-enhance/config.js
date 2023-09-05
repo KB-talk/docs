@@ -18,10 +18,9 @@ import { injectRevealConfig } from "/Users/zhangkaibo/Documents/docs/node_module
 import Playground from "/Users/zhangkaibo/Documents/docs/node_modules/vuepress-plugin-md-enhance/lib/client/components/Playground.js";
 import Tabs from "/Users/zhangkaibo/Documents/docs/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs.js";
 import "/Users/zhangkaibo/Documents/docs/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
-import "/Users/zhangkaibo/Documents/docs/node_modules/katex/dist/katex.min.css";
-import "/Users/zhangkaibo/Documents/docs/node_modules/vuepress-plugin-md-enhance/lib/client/styles/katex.scss";
 import { defineAsyncComponent } from "vue";
 import { injectVuePlaygroundConfig } from "/Users/zhangkaibo/Documents/docs/node_modules/vuepress-plugin-md-enhance/lib/client/index.js";
+import "./mathjax.css";
 
 export default defineClientConfig({
   enhance: ({ app }) => {

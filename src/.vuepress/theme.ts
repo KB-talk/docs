@@ -7,14 +7,14 @@ export default hopeTheme({
 
   author: {
     name: "张凯博",
-    url: "https://mister-hope.com",
+    url: "https://kb-talk.github.io/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "KB-talk/docs",
 
   docsDir: "src",
 
@@ -30,23 +30,23 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/.html": ["1234"],
     },
   },
 
   // page meta
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "编辑此页",
   },
 
   plugins: {
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "KB-talk/giscus",
+      repoId: "R_kgDOKGfArg",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOKGfArs4CYkcK",
     },
 
     // All features are enabled for demo, only preserve features you need here
@@ -63,7 +63,8 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: true,
+      katex: false,
+      mathjax: true,
       mark: true,
       mermaid: true,
       playground: {
@@ -89,7 +90,6 @@ export default hopeTheme({
       vPre: true,
       vuePlayground: true,
     },
-
     // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",
