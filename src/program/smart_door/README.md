@@ -1,9 +1,8 @@
 ---
-title: 项目
+title: 智能门锁
 index: false
 icon: laptop-code
 ---
-
 ## 目录
 
 <!-- - [Markdown 展示](markdown.md)

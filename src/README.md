@@ -8,14 +8,11 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 文档管理
-tagline: 你可以在这里放置或是整个项目的描述。
+tagline: 对项目以及学习资料进行了系统整理
 actions:
   - text: 作者博客 💡
     link: https://kb-talk.github.io/
     type: primary
-
-  # - text: 文档
-  #   link: ./guide/
 
 highlights:
   # - header: 易于安装
@@ -26,21 +23,44 @@ highlights:
   #     - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
   #     - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
 
+  # - header: 项目列表
+  #   description: 对项目进行管理，对项目的开发过程进行记录。
+  #   image: /assets/image/markdown.svg
+  #   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+  #   bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+  #   bgImageStyle:
+  #     background-repeat: repeat
+  #     background-size: initial
+  #   features:
+  #     - title: 水墨屏钥匙挂件
+  #       icon: clipboard-check
+  #       details: 利用水墨屏低功耗的特点，显示自定义图片，可以切换自己喜欢的图片。
+  #       link: /program/smart_door/introduce/
+
   - header: 项目列表
-    description: 对项目进行管理，对项目的开发过程进行记录。
-    image: /assets/image/markdown.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 水墨屏钥匙挂件
         icon: clipboard-check
         details: 利用水墨屏低功耗的特点，显示自定义图片，可以切换自己喜欢的图片。
+        link: /program/screen/introduce/
+      - title: 智能门锁
+        icon: clipboard-check
+        details: 利用水墨屏低功耗的特点，显示自定义图片，可以切换自己喜欢的图片。
         link: /program/smart_door/introduce/
 
-
+  - header: 学习笔记
+    description: 对知识进行系统整理
+    image: /assets/image/advanced.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    highlights:
+      - title: STM32
+        icon: dumbbell
+        details: 使用HAL库进行开发STM32，从点亮LED开始再到RTOS开发，逐步了解STM32的底层驱动以及实时操作系统。
+        link: /study/STM32/
   # - header: 在 Markdown 中添加你想要的内容
   #   description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
   #   image: /assets/image/markdown.svg
@@ -247,16 +267,7 @@ highlights:
   #       details: 在时间线中浏览和通读博文
   #       link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
-  # - header: 高级
-  #   description: 增强站点与用户体验的高级功能
-  #   image: /assets/image/advanced.svg
-  #   bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-  #   bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-  #   highlights:
-  #     - title: SEO 增强
-  #       icon: dumbbell
-  #       details: 将最终生成的网页针对搜索引擎进行优化。
-  #       link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
+
 
   #     - title: Sitemap
   #       icon: sitemap
@@ -276,7 +287,6 @@ highlights:
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2023-present 张凯博
 ---
-
 <!-- 这是项目主页的案例。你可以在这里放置你的主体内容。
 
 想要使用此布局，你需要在页面 front matter 中设置 `home: true`。

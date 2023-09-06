@@ -1,10 +1,14 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  {
+    text: "主页",
+    icon: "shouye",
+    link: "/",
+  },
   {
     text: "项目",
-    icon: "lightbulb",
+    icon: "kuaidihe",
     children: [
       {
         text: "水墨屏钥匙挂件",
@@ -20,7 +24,7 @@ export default navbar([
   },
   {
     text: "学习笔记",
-    icon: "lightbulb",
+    icon: "xiangqing",
     children: [
       {
         text: "STM32教程",
@@ -29,19 +33,19 @@ export default navbar([
       },
       {
         text: "复习资料",
-        icon: "lightbulb",
+        icon: "icon-lightbulb",
         link: "/study/note/",
       },
     ],
   },
   {
     text: "作者博客",
-    icon: "book",
+    icon: "geren",
     link: "https://kb-talk.github.io/",
   },
   {
     text: "GitHub",
-    icon: "book",
+    icon: "github",
     link: "https://github.com/KB-talk",
   },
 ]);

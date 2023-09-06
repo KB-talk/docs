@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://kb-talk.github.io/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "//at.alicdn.com/t/c/font_4239557_3ednldo06a5.css",
 
   logo: "https://cdn.staticaly.com/gh/KB-talk/picx-images-hosting@master/img/logo.1p5rqa10pxsw.webp",
 
@@ -30,7 +30,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/.html": ["1234"],
+      "/program/": ["zkb"],
+      "/study/": ["zkb"],
     },
   },
 
