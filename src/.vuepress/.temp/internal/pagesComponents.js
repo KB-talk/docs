@@ -83,6 +83,12 @@ export const pagesComponents = {
   "v-212c6ec9": defineAsyncComponent(() => import(/* webpackChunkName: "v-212c6ec9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/index.html.vue")),
   // path: /study/note/probability/01.html
   "v-54c474c0": defineAsyncComponent(() => import(/* webpackChunkName: "v-54c474c0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/01.html.vue")),
+  // path: /study/note/probability/02.html
+  "v-56794d5f": defineAsyncComponent(() => import(/* webpackChunkName: "v-56794d5f" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/02.html.vue")),
+  // path: /study/note/probability/03.html
+  "v-582e25fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-582e25fe" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/03.html.vue")),
+  // path: /study/note/probability/04.html
+  "v-59e2fe9d": defineAsyncComponent(() => import(/* webpackChunkName: "v-59e2fe9d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/04.html.vue")),
   // path: /study/note/probability/
   "v-75de8090": defineAsyncComponent(() => import(/* webpackChunkName: "v-75de8090" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/index.html.vue")),
   // path: /404.html

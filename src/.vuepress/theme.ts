@@ -64,8 +64,8 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: false,
-      mathjax: true,
+      katex: true ,
+      mathjax: false ,
       mark: true,
       mermaid: true,
       playground: {

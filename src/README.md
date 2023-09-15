@@ -61,6 +61,10 @@ highlights:
         icon: dumbbell
         details: 使用HAL库进行开发STM32，从点亮LED开始再到RTOS开发，逐步了解STM32的底层驱动以及实时操作系统。
         link: /study/STM32/
+      - title: 线性代数
+        icon: dumbbell
+        details: 线性代数复习笔记，记录了如何理解线性代数中的概念以及性质
+        link: /study/note/line/
   # - header: 在 Markdown 中添加你想要的内容
   #   description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
   #   image: /assets/image/markdown.svg

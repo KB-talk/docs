@@ -1,0 +1,12 @@
+<template><div><h2 id="三大抽样分布" tabindex="-1"><a class="header-anchor" href="#三大抽样分布" aria-hidden="true">#</a> 三大抽样分布</h2>
+<h3 id="分布" tabindex="-1"><a class="header-anchor" href="#分布" aria-hidden="true">#</a> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>χ</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">\chi ^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">χ</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>分布</h3>
+<h3 id="分布-1" tabindex="-1"><a class="header-anchor" href="#分布-1" aria-hidden="true">#</a> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>t</mi></mrow><annotation encoding="application/x-tex">t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord mathnormal">t</span></span></span></span>分布</h3>
+<h3 id="分布-2" tabindex="-1"><a class="header-anchor" href="#分布-2" aria-hidden="true">#</a> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span></span></span></span>分布</h3>
+<h2 id="参数估计" tabindex="-1"><a class="header-anchor" href="#参数估计" aria-hidden="true">#</a> 参数估计</h2>
+<h3 id="矩估计" tabindex="-1"><a class="header-anchor" href="#矩估计" aria-hidden="true">#</a> 矩估计</h3>
+<h3 id="最大似然估计" tabindex="-1"><a class="header-anchor" href="#最大似然估计" aria-hidden="true">#</a> 最大似然估计</h3>
+<h3 id="估计量的评选标准" tabindex="-1"><a class="header-anchor" href="#估计量的评选标准" aria-hidden="true">#</a> 估计量的评选标准</h3>
+<h2 id="假设检验" tabindex="-1"><a class="header-anchor" href="#假设检验" aria-hidden="true">#</a> 假设检验</h2>
+</div></template>
+
+

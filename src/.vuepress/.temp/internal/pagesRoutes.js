@@ -39,7 +39,10 @@ export const pagesRoutes = [
   ["v-13dbcce8","/study/note/math/08.html",{"y":"a","t":"无穷级数","i":"file","O":8},[":md"]],
   ["v-1590a587","/study/note/math/09.html",{"y":"a","t":"曲线积分、曲面积分","i":"file","O":9},[":md"]],
   ["v-212c6ec9","/study/note/math/",{"y":"a","t":"高等数学","i":"laptop-code"},["/study/note/math/README.md"]],
-  ["v-54c474c0","/study/note/probability/01.html",{"y":"a","t":"随机事件及其概率","i":"file"},[":md"]],
+  ["v-54c474c0","/study/note/probability/01.html",{"y":"a","t":"随机事件及其概率","i":"file","O":1},[":md"]],
+  ["v-56794d5f","/study/note/probability/02.html",{"y":"a","t":"随机变量及其分布","i":"file","O":2},[":md"]],
+  ["v-582e25fe","/study/note/probability/03.html",{"y":"a","t":"随机变量的数字特征","i":"file","O":3},[":md"]],
+  ["v-59e2fe9d","/study/note/probability/04.html",{"y":"a","t":"参数估计与假设检验","i":"file","O":4},[":md"]],
   ["v-75de8090","/study/note/probability/",{"y":"a","t":"概率论","i":"laptop-code"},["/study/note/probability/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
 ]

@@ -9,6 +9,8 @@
 <li><RouterLink to="/study/note/math/08.html">无穷级数</RouterLink></li>
 <li><RouterLink to="/study/note/math/09.html">曲线积分、曲面积分</RouterLink></li>
 </ul>
+<p>什么是卷积？在不同领域中对于卷机的含义是不同的，卷机的数学表达含义是将一个函数进行反转并移动与另一个信号进行相加。<br>
+在信号处理中，卷机可以处理输入信号与系统函数，当一个信号输入信号，输出信号即输入信号与系统函数进行卷机。</p>
 </div></template>
 
 
