@@ -1,13 +1,10 @@
 ---
-sidebar: heading
 title: 概率论
 index: false
 order: 5
-icon: laptop-code
+icon: a-BabyStroller
 ---
-## 目录
-
-- [随机事件及其概率](/study/note/probability/01.md)
+<AutoCatalog base='/study/note/probability/' />
 
 ::: note
 本文只是在学习的过程中的笔记记录，其内容仅供参考
@@ -83,18 +80,14 @@ icon: laptop-code
 | 分布                 | 分布函数 | 期望            | 方差          |
 | -------------       | -------- | --------------- | ------------- |
 | $X \sim B(n,p)$     |  $P \{X=k \} =C^k_np^k(i-p)^{n-k}$ | $EX=np$  | $DX=np(1-p)$|
-| $X \sim G(p )$      |  $P \{X=k \}=p(1-p)^{k-1}$  | $EX=\frac{1}{p} $  | $DX=\frac{1-p}{p^2} $|
-| $X \sim P(\lambda )$ | $P \{X=k \}= \frac { \lambda ^k}{k! }e^{ - \lambda } $  | $EX=\lambda $  | $DX=\lambda $|
+| $X \sim G(p )$      |  $P \{X=k \}=p(1-p)^{k-1}$  | $EX=\frac{1}{p}$  | $DX=\frac{1-p}{p^2}$|
+| $X \sim P(\lambda )$ | $P \{X=k \}= \frac { \lambda ^k}{k! }e^{ - \lambda }$  | $EX=\lambda$  | $DX=\lambda$|
 
 @tab 连续型随机变量
 | 分布                 | 分布函数 | 期望            | 方差          |
 | -------------       | -------- | --------------- | ------------- |
-| $X \sim U(a,b)$            | $F(x)=\left\{\begin{matrix}1-e^{-\lambda x}  & x\ge 0\\ 0 & x<0\end{matrix}\right. $ | $EX=\frac{a+b}{2} $        | $DX=\frac{(b-a)^2}{12} $ |
-| $X \sim E(\lambda )$ | | $EX=\frac{1}{\lambda } $  | $DX=\frac{1}{\lambda ^2}  $|
-| $X \sim N(\mu , \delta ^2)$ | | $EX=\mu  $  | $DX=\delta ^2$|
+| $X \sim U(a,b)$     | $F(x)=\left\{\begin{matrix}1-e^{-\lambda x}  & x\ge 0\\ 0 & x<0\end{matrix}\right.$ | $EX=\frac{a+b}{2}$        | $DX=\frac{(b-a)^2}{12}$ |
+| $X \sim E(\lambda )$ | | $EX=\frac{1}{\lambda }$  | $DX=\frac{1}{\lambda ^2}$|
+| $X \sim N(\mu , \delta ^2)$ | | $EX=\mu$  | $DX=\delta ^2$|
 :::
-:::
-$$
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
-= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right\}
-$$
+

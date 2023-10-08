@@ -28,12 +28,12 @@ export default navbar([
     children: [
       {
         text: "STM32教程",
-        icon: "lightbulb",
+        icon: "zhinengdianwangshebei",
         link: "/study/STM32/introduce/",
       },
       {
         text: "复习资料",
-        icon: "icon-lightbulb",
+        icon: "zhinengqiuxie",
         link: "/study/note/",
       },
     ],

@@ -1,8 +1,8 @@
 ---
 home: true
-icon: home
+icon: shouye
 title: 项目主页
-heroImage: https://cdn.staticaly.com/gh/KB-talk/picx-images-hosting@master/img/logo.1p5rqa10pxsw.webp
+heroImage: https://cdn.jsdelivr.net/gh/KB-talk/picx-images-hosting@master/img/logo.1p5rqa10pxsw.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -61,10 +61,18 @@ highlights:
         icon: dumbbell
         details: 使用HAL库进行开发STM32，从点亮LED开始再到RTOS开发，逐步了解STM32的底层驱动以及实时操作系统。
         link: /study/STM32/
+      - title: 高等数学
+        icon: dumbbell
+        details: 总结了高等数学中常见的结论与常见题型的处理方法
+        link: /study/note/math/
       - title: 线性代数
         icon: dumbbell
         details: 线性代数复习笔记，记录了如何理解线性代数中的概念以及性质
         link: /study/note/line/
+      - title: 概率论与数理统计
+        icon: dumbbell
+        details: 简单的介绍了对概率论与数理统计的理解，以及常用的结论
+        link: /study/note/probability/
   # - header: 在 Markdown 中添加你想要的内容
   #   description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
   #   image: /assets/image/markdown.svg

@@ -1,7 +1,7 @@
 ---
 title: 考研复习笔记
 index: false
-icon: laptop-code
+icon: zhinengqiuxie
 ---
 ## 目录
 ### 高等数学

@@ -8,28 +8,28 @@ export default sidebar({
   [
     {
       text: "高等数学",
-      icon: "laptop-code",
+      icon: "a-BeachChair",
       prefix: "math/",
       collapsible: true,
       children: "structure",
     },
     {
       text: "线性代数",
-      icon: "book",
+      icon: "Airplane",
       prefix: "line/",
       collapsible: true,
       children: "structure",
     },
     {
       text: "概率论",
-      icon: "book",
+      icon: "a-BabyStroller",
       prefix: "probability/",
       collapsible: true,
       children: "structure",
     },
     {
       text: "英语",
-      icon: "book",
+      icon: "Backpack",
       prefix: "en/",
       collapsible: true,
       children: "structure",
