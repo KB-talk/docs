@@ -66,8 +66,8 @@
 <p>定义：解集的极大线性无关组。</p>
 <p>基础解系所含向量的个数：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>−</mo><mi>r</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">n-r(A)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathnormal">A</span><span class="mclose">)</span></span></span></span>。</p>
 <h2 id="三、方程组的公共解与同解" tabindex="-1"><a class="header-anchor" href="#三、方程组的公共解与同解" aria-hidden="true">#</a> 三、方程组的公共解与同解</h2>
-<p>将两个方程组联立</p>
-<p>求解新的线性方程组</p>
+<p><strong>step1</strong>:将两个方程组联立</p>
+<p><strong>step2</strong>:求解新的线性方程组</p>
 </div></template>
 
 

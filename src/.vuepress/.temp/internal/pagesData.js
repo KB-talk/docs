@@ -7,10 +7,10 @@ export const pagesData = {
   "v-d7188082": () => import(/* webpackChunkName: "v-d7188082" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/index.html.js").then(({ data }) => data),
   // path: /program/screen/
   "v-7790fec2": () => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.js").then(({ data }) => data),
-  // path: /study/STM32/
-  "v-02946ca3": () => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.js").then(({ data }) => data),
   // path: /program/smart_door/
   "v-3e0394b2": () => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.js").then(({ data }) => data),
+  // path: /study/STM32/
+  "v-02946ca3": () => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.js").then(({ data }) => data),
   // path: /study/note/
   "v-753b8e1e": () => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.js").then(({ data }) => data),
   // path: /program/screen/introduce/01.html
@@ -23,6 +23,16 @@ export const pagesData = {
   "v-d80035aa": () => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.js").then(({ data }) => data),
   // path: /program/screen/start/
   "v-4264156c": () => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.js").then(({ data }) => data),
+  // path: /program/smart_door/introduce/01.html
+  "v-0780107e": () => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.js").then(({ data }) => data),
+  // path: /program/smart_door/introduce/
+  "v-00e82bd7": () => import(/* webpackChunkName: "v-00e82bd7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/index.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/01.html
+  "v-747e76f8": () => import(/* webpackChunkName: "v-747e76f8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/01.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/02.html
+  "v-7114c5ba": () => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/
+  "v-bc7e3718": () => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.js").then(({ data }) => data),
   // path: /study/STM32/introduce/01.html
   "v-8291cf76": () => import(/* webpackChunkName: "v-8291cf76" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/introduce/01.html.js").then(({ data }) => data),
   // path: /study/STM32/introduce/
@@ -31,16 +41,6 @@ export const pagesData = {
   "v-f27671f0": () => import(/* webpackChunkName: "v-f27671f0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/01.html.js").then(({ data }) => data),
   // path: /study/STM32/start/
   "v-5df8ee70": () => import(/* webpackChunkName: "v-5df8ee70" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/index.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/01.html
-  "v-747e76f8": () => import(/* webpackChunkName: "v-747e76f8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/01.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/02.html
-  "v-7114c5ba": () => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/
-  "v-bc7e3718": () => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.js").then(({ data }) => data),
-  // path: /program/smart_door/introduce/01.html
-  "v-0780107e": () => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.js").then(({ data }) => data),
-  // path: /program/smart_door/introduce/
-  "v-00e82bd7": () => import(/* webpackChunkName: "v-00e82bd7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/index.html.js").then(({ data }) => data),
   // path: /study/note/en/01.html
   "v-1fa964b0": () => import(/* webpackChunkName: "v-1fa964b0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/01.html.js").then(({ data }) => data),
   // path: /study/note/en/
