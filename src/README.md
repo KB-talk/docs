@@ -73,6 +73,10 @@ highlights:
         icon: dumbbell
         details: 简单的介绍了对概率论与数理统计的理解，以及常用的结论
         link: /study/note/probability/
+      - title: Latex使用笔记
+        icon: dumbbell
+        details: 记录了latex的使用方法
+        link: /study/note/Latex/
   # - header: 在 Markdown 中添加你想要的内容
   #   description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
   #   image: /assets/image/markdown.svg

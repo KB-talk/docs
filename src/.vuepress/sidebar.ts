@@ -34,5 +34,12 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "Latex使用笔记",
+      icon: "Backpack",
+      prefix: "Latex/",
+      collapsible: true,
+      children: "structure",
+    },
   ]
 });

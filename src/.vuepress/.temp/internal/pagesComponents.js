@@ -7,24 +7,14 @@ export const pagesComponents = {
   "v-ca04c7b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-ca04c7b8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/index.html.vue")),
   // path: /study/
   "v-d7188082": defineAsyncComponent(() => import(/* webpackChunkName: "v-d7188082" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/index.html.vue")),
-  // path: /program/screen/
-  "v-7790fec2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.vue")),
   // path: /program/smart_door/
   "v-3e0394b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.vue")),
+  // path: /program/screen/
+  "v-7790fec2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.vue")),
   // path: /study/STM32/
   "v-02946ca3": defineAsyncComponent(() => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.vue")),
   // path: /study/note/
   "v-753b8e1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.vue")),
-  // path: /program/screen/introduce/01.html
-  "v-6ad6fbc9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.vue")),
-  // path: /program/screen/introduce/
-  "v-4a1a20cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.vue")),
-  // path: /program/screen/start/01.html
-  "v-db69e6e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.vue")),
-  // path: /program/screen/start/02.html
-  "v-d80035aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.vue")),
-  // path: /program/screen/start/
-  "v-4264156c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.vue")),
   // path: /program/smart_door/introduce/01.html
   "v-0780107e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.vue")),
   // path: /program/smart_door/introduce/
@@ -35,6 +25,16 @@ export const pagesComponents = {
   "v-7114c5ba": defineAsyncComponent(() => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.vue")),
   // path: /program/smart_door/start/
   "v-bc7e3718": defineAsyncComponent(() => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.vue")),
+  // path: /program/screen/introduce/01.html
+  "v-6ad6fbc9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.vue")),
+  // path: /program/screen/introduce/
+  "v-4a1a20cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.vue")),
+  // path: /program/screen/start/01.html
+  "v-db69e6e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.vue")),
+  // path: /program/screen/start/02.html
+  "v-d80035aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.vue")),
+  // path: /program/screen/start/
+  "v-4264156c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.vue")),
   // path: /study/STM32/introduce/01.html
   "v-8291cf76": defineAsyncComponent(() => import(/* webpackChunkName: "v-8291cf76" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/introduce/01.html.vue")),
   // path: /study/STM32/introduce/
@@ -43,10 +43,14 @@ export const pagesComponents = {
   "v-f27671f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-f27671f0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/01.html.vue")),
   // path: /study/STM32/start/
   "v-5df8ee70": defineAsyncComponent(() => import(/* webpackChunkName: "v-5df8ee70" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/index.html.vue")),
-  // path: /study/note/en/01.html
-  "v-1fa964b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fa964b0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/01.html.vue")),
+  // path: /study/note/Latex/01.html
+  "v-0636237d": defineAsyncComponent(() => import(/* webpackChunkName: "v-0636237d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/01.html.vue")),
+  // path: /study/note/Latex/
+  "v-67dd08ca": defineAsyncComponent(() => import(/* webpackChunkName: "v-67dd08ca" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/index.html.vue")),
   // path: /study/note/en/
   "v-7d80ddc8": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d80ddc8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/index.html.vue")),
+  // path: /study/note/en/%E8%A1%A8%E6%A0%BC.html
+  "v-3437e388": defineAsyncComponent(() => import(/* webpackChunkName: "v-3437e388" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/表格.html.vue")),
   // path: /study/note/line/
   "v-2121e35d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2121e35d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/index.html.vue")),
   // path: /study/note/line/%E4%BA%8C%E6%AC%A1%E5%9E%8B.html

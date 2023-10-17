@@ -5,24 +5,14 @@ export const pagesData = {
   "v-ca04c7b8": () => import(/* webpackChunkName: "v-ca04c7b8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/index.html.js").then(({ data }) => data),
   // path: /study/
   "v-d7188082": () => import(/* webpackChunkName: "v-d7188082" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/index.html.js").then(({ data }) => data),
-  // path: /program/screen/
-  "v-7790fec2": () => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.js").then(({ data }) => data),
   // path: /program/smart_door/
   "v-3e0394b2": () => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.js").then(({ data }) => data),
+  // path: /program/screen/
+  "v-7790fec2": () => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.js").then(({ data }) => data),
   // path: /study/STM32/
   "v-02946ca3": () => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.js").then(({ data }) => data),
   // path: /study/note/
   "v-753b8e1e": () => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.js").then(({ data }) => data),
-  // path: /program/screen/introduce/01.html
-  "v-6ad6fbc9": () => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.js").then(({ data }) => data),
-  // path: /program/screen/introduce/
-  "v-4a1a20cf": () => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.js").then(({ data }) => data),
-  // path: /program/screen/start/01.html
-  "v-db69e6e8": () => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.js").then(({ data }) => data),
-  // path: /program/screen/start/02.html
-  "v-d80035aa": () => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.js").then(({ data }) => data),
-  // path: /program/screen/start/
-  "v-4264156c": () => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.js").then(({ data }) => data),
   // path: /program/smart_door/introduce/01.html
   "v-0780107e": () => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.js").then(({ data }) => data),
   // path: /program/smart_door/introduce/
@@ -33,6 +23,16 @@ export const pagesData = {
   "v-7114c5ba": () => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.js").then(({ data }) => data),
   // path: /program/smart_door/start/
   "v-bc7e3718": () => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.js").then(({ data }) => data),
+  // path: /program/screen/introduce/01.html
+  "v-6ad6fbc9": () => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.js").then(({ data }) => data),
+  // path: /program/screen/introduce/
+  "v-4a1a20cf": () => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.js").then(({ data }) => data),
+  // path: /program/screen/start/01.html
+  "v-db69e6e8": () => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.js").then(({ data }) => data),
+  // path: /program/screen/start/02.html
+  "v-d80035aa": () => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.js").then(({ data }) => data),
+  // path: /program/screen/start/
+  "v-4264156c": () => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.js").then(({ data }) => data),
   // path: /study/STM32/introduce/01.html
   "v-8291cf76": () => import(/* webpackChunkName: "v-8291cf76" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/introduce/01.html.js").then(({ data }) => data),
   // path: /study/STM32/introduce/
@@ -41,10 +41,14 @@ export const pagesData = {
   "v-f27671f0": () => import(/* webpackChunkName: "v-f27671f0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/01.html.js").then(({ data }) => data),
   // path: /study/STM32/start/
   "v-5df8ee70": () => import(/* webpackChunkName: "v-5df8ee70" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/index.html.js").then(({ data }) => data),
-  // path: /study/note/en/01.html
-  "v-1fa964b0": () => import(/* webpackChunkName: "v-1fa964b0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/01.html.js").then(({ data }) => data),
+  // path: /study/note/Latex/01.html
+  "v-0636237d": () => import(/* webpackChunkName: "v-0636237d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/01.html.js").then(({ data }) => data),
+  // path: /study/note/Latex/
+  "v-67dd08ca": () => import(/* webpackChunkName: "v-67dd08ca" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/index.html.js").then(({ data }) => data),
   // path: /study/note/en/
   "v-7d80ddc8": () => import(/* webpackChunkName: "v-7d80ddc8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/index.html.js").then(({ data }) => data),
+  // path: /study/note/en/%E8%A1%A8%E6%A0%BC.html
+  "v-3437e388": () => import(/* webpackChunkName: "v-3437e388" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/en/表格.html.js").then(({ data }) => data),
   // path: /study/note/line/
   "v-2121e35d": () => import(/* webpackChunkName: "v-2121e35d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/index.html.js").then(({ data }) => data),
   // path: /study/note/line/%E4%BA%8C%E6%AC%A1%E5%9E%8B.html
