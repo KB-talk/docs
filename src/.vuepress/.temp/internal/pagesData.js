@@ -1,10 +1,38 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /program/
+  "v-ca04c7b8": () => import(/* webpackChunkName: "v-ca04c7b8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/index.html.js").then(({ data }) => data),
   // path: /study/
   "v-d7188082": () => import(/* webpackChunkName: "v-d7188082" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/index.html.js").then(({ data }) => data),
+  // path: /program/screen/
+  "v-7790fec2": () => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.js").then(({ data }) => data),
+  // path: /program/smart_door/
+  "v-3e0394b2": () => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.js").then(({ data }) => data),
   // path: /study/STM32/
   "v-02946ca3": () => import(/* webpackChunkName: "v-02946ca3" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/index.html.js").then(({ data }) => data),
+  // path: /study/note/
+  "v-753b8e1e": () => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.js").then(({ data }) => data),
+  // path: /program/screen/introduce/01.html
+  "v-6ad6fbc9": () => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.js").then(({ data }) => data),
+  // path: /program/screen/introduce/
+  "v-4a1a20cf": () => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.js").then(({ data }) => data),
+  // path: /program/screen/start/01.html
+  "v-db69e6e8": () => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.js").then(({ data }) => data),
+  // path: /program/screen/start/02.html
+  "v-d80035aa": () => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.js").then(({ data }) => data),
+  // path: /program/screen/start/
+  "v-4264156c": () => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.js").then(({ data }) => data),
+  // path: /program/smart_door/introduce/01.html
+  "v-0780107e": () => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.js").then(({ data }) => data),
+  // path: /program/smart_door/introduce/
+  "v-00e82bd7": () => import(/* webpackChunkName: "v-00e82bd7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/index.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/01.html
+  "v-747e76f8": () => import(/* webpackChunkName: "v-747e76f8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/01.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/02.html
+  "v-7114c5ba": () => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.js").then(({ data }) => data),
+  // path: /program/smart_door/start/
+  "v-bc7e3718": () => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.js").then(({ data }) => data),
   // path: /study/STM32/GPIO/IO%E5%8F%A3%E4%BB%8B%E7%BB%8D.html
   "v-1d1e3444": () => import(/* webpackChunkName: "v-1d1e3444" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/GPIO/IO口介绍.html.js").then(({ data }) => data),
   // path: /study/STM32/GPIO/
@@ -13,6 +41,14 @@ export const pagesData = {
   "v-eb7a791c": () => import(/* webpackChunkName: "v-eb7a791c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/GPIO/程序下载.html.js").then(({ data }) => data),
   // path: /study/STM32/GPIO/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.html
   "v-21dd0922": () => import(/* webpackChunkName: "v-21dd0922" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/GPIO/软件设计.html.js").then(({ data }) => data),
+  // path: /study/STM32/IIC/
+  "v-d8cca6e2": () => import(/* webpackChunkName: "v-d8cca6e2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/index.html.js").then(({ data }) => data),
+  // path: /study/STM32/IIC/%E4%BB%8B%E7%BB%8D.html
+  "v-ff9289f6": () => import(/* webpackChunkName: "v-ff9289f6" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/介绍.html.js").then(({ data }) => data),
+  // path: /study/STM32/IIC/%E7%A8%8B%E5%BA%8F%E4%B8%8B%E8%BD%BD.html
+  "v-5e1f1ac0": () => import(/* webpackChunkName: "v-5e1f1ac0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/程序下载.html.js").then(({ data }) => data),
+  // path: /study/STM32/IIC/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.html
+  "v-688ab850": () => import(/* webpackChunkName: "v-688ab850" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/软件设计.html.js").then(({ data }) => data),
   // path: /study/STM32/TIME/
   "v-3f91df82": () => import(/* webpackChunkName: "v-3f91df82" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/TIME/index.html.js").then(({ data }) => data),
   // path: /study/STM32/TIME/%E4%BB%8B%E7%BB%8D.html
@@ -35,38 +71,10 @@ export const pagesData = {
   "v-f66433f4": () => import(/* webpackChunkName: "v-f66433f4" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/新建工程.html.js").then(({ data }) => data),
   // path: /study/STM32/start/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html
   "v-cc7f4ab2": () => import(/* webpackChunkName: "v-cc7f4ab2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/start/环境搭建.html.js").then(({ data }) => data),
-  // path: /study/note/
-  "v-753b8e1e": () => import(/* webpackChunkName: "v-753b8e1e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/index.html.js").then(({ data }) => data),
-  // path: /program/
-  "v-ca04c7b8": () => import(/* webpackChunkName: "v-ca04c7b8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/index.html.js").then(({ data }) => data),
   // path: /study/note/Latex/01.html
   "v-0636237d": () => import(/* webpackChunkName: "v-0636237d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/01.html.js").then(({ data }) => data),
   // path: /study/note/Latex/
   "v-67dd08ca": () => import(/* webpackChunkName: "v-67dd08ca" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/Latex/index.html.js").then(({ data }) => data),
-  // path: /study/note/probability/
-  "v-75de8090": () => import(/* webpackChunkName: "v-75de8090" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/index.html.js").then(({ data }) => data),
-  // path: /study/note/probability/%E4%B8%80%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.html
-  "v-754f1286": () => import(/* webpackChunkName: "v-754f1286" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/一维随机变量及其分布.html.js").then(({ data }) => data),
-  // path: /study/note/probability/%E4%BA%8C%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.html
-  "v-1e531ab2": () => import(/* webpackChunkName: "v-1e531ab2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/二维随机变量及其分布.html.js").then(({ data }) => data),
-  // path: /study/note/probability/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1%E4%B8%8E%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.html
-  "v-173b0fec": () => import(/* webpackChunkName: "v-173b0fec" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/参数估计与假设检验.html.js").then(({ data }) => data),
-  // path: /study/note/probability/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%8A%E5%85%B6%E6%A6%82%E7%8E%87.html
-  "v-29130802": () => import(/* webpackChunkName: "v-29130802" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/随机事件及其概率.html.js").then(({ data }) => data),
-  // path: /study/note/probability/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81.html
-  "v-75398064": () => import(/* webpackChunkName: "v-75398064" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/随机变量的数字特征.html.js").then(({ data }) => data),
-  // path: /study/STM32/IIC/
-  "v-d8cca6e2": () => import(/* webpackChunkName: "v-d8cca6e2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/index.html.js").then(({ data }) => data),
-  // path: /study/STM32/IIC/%E4%BB%8B%E7%BB%8D.html
-  "v-ff9289f6": () => import(/* webpackChunkName: "v-ff9289f6" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/介绍.html.js").then(({ data }) => data),
-  // path: /study/STM32/IIC/%E7%A8%8B%E5%BA%8F%E4%B8%8B%E8%BD%BD.html
-  "v-5e1f1ac0": () => import(/* webpackChunkName: "v-5e1f1ac0" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/程序下载.html.js").then(({ data }) => data),
-  // path: /study/STM32/IIC/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.html
-  "v-688ab850": () => import(/* webpackChunkName: "v-688ab850" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/STM32/IIC/软件设计.html.js").then(({ data }) => data),
-  // path: /program/screen/
-  "v-7790fec2": () => import(/* webpackChunkName: "v-7790fec2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/index.html.js").then(({ data }) => data),
-  // path: /program/smart_door/
-  "v-3e0394b2": () => import(/* webpackChunkName: "v-3e0394b2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/index.html.js").then(({ data }) => data),
   // path: /study/note/line/
   "v-2121e35d": () => import(/* webpackChunkName: "v-2121e35d" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/line/index.html.js").then(({ data }) => data),
   // path: /study/note/line/%E4%BA%8C%E6%AC%A1%E5%9E%8B.html
@@ -99,26 +107,18 @@ export const pagesData = {
   "v-21931f22": () => import(/* webpackChunkName: "v-21931f22" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/曲线曲面积分.html.js").then(({ data }) => data),
   // path: /study/note/math/%E6%9E%81%E9%99%90.html
   "v-c2f0397a": () => import(/* webpackChunkName: "v-c2f0397a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/math/极限.html.js").then(({ data }) => data),
-  // path: /program/screen/introduce/01.html
-  "v-6ad6fbc9": () => import(/* webpackChunkName: "v-6ad6fbc9" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/01.html.js").then(({ data }) => data),
-  // path: /program/screen/introduce/
-  "v-4a1a20cf": () => import(/* webpackChunkName: "v-4a1a20cf" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/introduce/index.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/01.html
-  "v-747e76f8": () => import(/* webpackChunkName: "v-747e76f8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/01.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/02.html
-  "v-7114c5ba": () => import(/* webpackChunkName: "v-7114c5ba" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/02.html.js").then(({ data }) => data),
-  // path: /program/smart_door/start/
-  "v-bc7e3718": () => import(/* webpackChunkName: "v-bc7e3718" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/start/index.html.js").then(({ data }) => data),
-  // path: /program/smart_door/introduce/01.html
-  "v-0780107e": () => import(/* webpackChunkName: "v-0780107e" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/01.html.js").then(({ data }) => data),
-  // path: /program/smart_door/introduce/
-  "v-00e82bd7": () => import(/* webpackChunkName: "v-00e82bd7" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/smart_door/introduce/index.html.js").then(({ data }) => data),
-  // path: /program/screen/start/01.html
-  "v-db69e6e8": () => import(/* webpackChunkName: "v-db69e6e8" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/01.html.js").then(({ data }) => data),
-  // path: /program/screen/start/02.html
-  "v-d80035aa": () => import(/* webpackChunkName: "v-d80035aa" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/02.html.js").then(({ data }) => data),
-  // path: /program/screen/start/
-  "v-4264156c": () => import(/* webpackChunkName: "v-4264156c" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/program/screen/start/index.html.js").then(({ data }) => data),
+  // path: /study/note/probability/
+  "v-75de8090": () => import(/* webpackChunkName: "v-75de8090" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/index.html.js").then(({ data }) => data),
+  // path: /study/note/probability/%E4%B8%80%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.html
+  "v-754f1286": () => import(/* webpackChunkName: "v-754f1286" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/一维随机变量及其分布.html.js").then(({ data }) => data),
+  // path: /study/note/probability/%E4%BA%8C%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.html
+  "v-1e531ab2": () => import(/* webpackChunkName: "v-1e531ab2" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/二维随机变量及其分布.html.js").then(({ data }) => data),
+  // path: /study/note/probability/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1%E4%B8%8E%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.html
+  "v-173b0fec": () => import(/* webpackChunkName: "v-173b0fec" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/参数估计与假设检验.html.js").then(({ data }) => data),
+  // path: /study/note/probability/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%8A%E5%85%B6%E6%A6%82%E7%8E%87.html
+  "v-29130802": () => import(/* webpackChunkName: "v-29130802" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/随机事件及其概率.html.js").then(({ data }) => data),
+  // path: /study/note/probability/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81.html
+  "v-75398064": () => import(/* webpackChunkName: "v-75398064" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/study/note/probability/随机变量的数字特征.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/zhangkaibo/Documents/docs/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
