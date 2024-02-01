@@ -29,7 +29,7 @@ export default navbar([
       {
         text: "STM32教程",
         icon: "zhinengdianwangshebei",
-        link: "/study/STM32/introduce/",
+        link: "/study/STM32/",
       },
       {
         text: "复习资料",

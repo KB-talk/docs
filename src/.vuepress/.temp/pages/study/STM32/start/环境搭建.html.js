@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-cc7f4ab2\",\"path\":\"/study/STM32/start/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html\",\"title\":\"环境搭建\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"环境搭建\",\"icon\":\"file\",\"order\":1,\"author\":\"张凯博\",\"date\":\"2020-01-01T00:00:00.000Z\",\"description\":\"STM32CUBE IDE下载 进入STM32CUBE IDE下载链接 (https://www.st.com/zh/development-tools/stm32cubeide.html) 接受输入对应的信息和邮箱。 进入输入的邮箱，进行下载。 Keil5下载 使用STM32正版芯片可以使用STM32CUBEIDE进行开发，对于市面上很多非正版芯片会...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/docs/study/STM32/start/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文档管理\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"环境搭建\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"STM32CUBE IDE下载 进入STM32CUBE IDE下载链接 (https://www.st.com/zh/development-tools/stm32cubeide.html) 接受输入对应的信息和邮箱。 进入输入的邮箱，进行下载。 Keil5下载 使用STM32正版芯片可以使用STM32CUBEIDE进行开发，对于市面上很多非正版芯片会...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"张凯博\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2020-01-01T00:00:00.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"环境搭建\\\",\\\"image\\\":[\\\"\\\"],\\\"datePublished\\\":\\\"2020-01-01T00:00:00.000Z\\\",\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"张凯博\\\"}]}\"]]},\"headers\":[{\"level\":2,\"title\":\"STM32CUBE IDE下载\",\"slug\":\"stm32cube-ide下载\",\"link\":\"#stm32cube-ide下载\",\"children\":[]},{\"level\":2,\"title\":\"Keil5下载\",\"slug\":\"keil5下载\",\"link\":\"#keil5下载\",\"children\":[{\"level\":3,\"title\":\"Keil5软件下载\",\"slug\":\"keil5软件下载\",\"link\":\"#keil5软件下载\",\"children\":[]},{\"level\":3,\"title\":\"Keil5软件破解\",\"slug\":\"keil5软件破解\",\"link\":\"#keil5软件破解\",\"children\":[]},{\"level\":3,\"title\":\"Keil5安装芯片包\",\"slug\":\"keil5安装芯片包\",\"link\":\"#keil5安装芯片包\",\"children\":[]},{\"level\":3,\"title\":\"相关配置\",\"slug\":\"相关配置\",\"link\":\"#相关配置\",\"children\":[]},{\"level\":3,\"title\":\"可能出现的错误\",\"slug\":\"可能出现的错误\",\"link\":\"#可能出现的错误\",\"children\":[]}]}],\"readingTime\":{\"minutes\":1.46,\"words\":439},\"filePathRelative\":\"study/STM32/start/环境搭建.md\",\"localizedDate\":\"2020年1月1日\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

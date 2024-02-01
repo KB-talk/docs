@@ -1,7 +1,7 @@
 ---
 title: 概率论
 index: false
-order: 5
+order: 3
 icon: a-BabyStroller
 ---
 <AutoCatalog base='/study/note/probability/' />

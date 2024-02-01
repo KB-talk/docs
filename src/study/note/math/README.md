@@ -1,7 +1,7 @@
 ---
 title: 高等数学
 index: false
-order: 4
+order: 1
 icon: a-BeachChair
 ---
 <AutoCatalog base='/study/note/math/' />
