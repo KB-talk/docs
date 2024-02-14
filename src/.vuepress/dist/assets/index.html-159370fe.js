@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a}from"./app-964035c1.js";const c={};function n(r,s){return t(),o("div",null,[a(" <AutoCatalog base='/study/STM32/' /> ")])}const m=e(c,[["render",n],["__file","index.html.vue"]]);export{m as default};

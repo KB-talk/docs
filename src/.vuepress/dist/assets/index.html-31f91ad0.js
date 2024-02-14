@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as c,c as n,b as e,d as t}from"./app-964035c1.js";const r={},s=e("p",null,[t("本实验介绍了STM32的LED操作，核心是对STM32的IO口进行操作。STM32的IO口操作与配置相对较麻烦。"),e("br"),t(" 本实验使用STM32CUBEIDE编译器进行工程的快速配置。")],-1),_=[s];function a(d,l){return c(),n("div",null,_)}const m=o(r,[["render",a],["__file","index.html.vue"]]);export{m as default};
