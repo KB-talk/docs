@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-6ad6fbc9\",\"path\":\"/program/screen/introduce/01.html\",\"title\":\"水墨屏钥匙挂件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"水墨屏钥匙挂件\",\"icon\":\"file\",\"order\":1,\"author\":\"张凯博\",\"date\":\"2020-01-01T00:00:00.000Z\",\"seo\":false,\"head\":[]},\"headers\":[{\"level\":2,\"title\":\"产品展示\",\"slug\":\"产品展示\",\"link\":\"#产品展示\",\"children\":[]}],\"readingTime\":{\"minutes\":0.29,\"words\":88},\"filePathRelative\":\"program/screen/introduce/01.md\",\"localizedDate\":\"2020年1月1日\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-6ad6fbc9\",\"path\":\"/program/screen/introduce/01.html\",\"title\":\"水墨屏钥匙挂件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"水墨屏钥匙挂件\",\"icon\":\"file\",\"order\":1,\"author\":\"张凯博\",\"date\":\"2020-01-01T00:00:00.000Z\",\"seo\":false,\"head\":[]},\"headers\":[{\"level\":2,\"title\":\"产品展示\",\"slug\":\"产品展示\",\"link\":\"#产品展示\",\"children\":[]}],\"git\":{\"createdTime\":1691916683000,\"updatedTime\":1693930588000,\"contributors\":[{\"name\":\"KB-talk\",\"email\":\"zkb13258847839@163.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0.29,\"words\":88},\"filePathRelative\":\"program/screen/introduce/01.md\",\"localizedDate\":\"2020年1月1日\"}")

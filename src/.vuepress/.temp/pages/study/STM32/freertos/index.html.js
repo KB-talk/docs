@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-119e091a\",\"path\":\"/study/STM32/freertos/\",\"title\":\"freertos\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"freertos\",\"index\":false,\"order\":3,\"icon\":\"laptop-code\",\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/docs/study/STM32/freertos/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文档管理\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"freertos\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"张凯博\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"freertos\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"张凯博\\\",\\\"url\\\":\\\"https://kb-talk.github.io/\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"study/STM32/freertos/README.md\",\"autoDesc\":true}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-119e091a\",\"path\":\"/study/STM32/freertos/\",\"title\":\"freertos\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"freertos\",\"index\":false,\"order\":3,\"icon\":\"laptop-code\",\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/docs/study/STM32/freertos/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文档管理\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"freertos\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-02-14T06:40:19.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"张凯博\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-02-14T06:40:19.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"freertos\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-02-14T06:40:19.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"张凯博\\\",\\\"url\\\":\\\"https://kb-talk.github.io/\\\"}]}\"]]},\"headers\":[],\"git\":{\"createdTime\":1707892819000,\"updatedTime\":1707892819000,\"contributors\":[{\"name\":\"KB-talk\",\"email\":\"zkb13258847839@163.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"study/STM32/freertos/README.md\",\"localizedDate\":\"2024年2月14日\",\"autoDesc\":true}")
